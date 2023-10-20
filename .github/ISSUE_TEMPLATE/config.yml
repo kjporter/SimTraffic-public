@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: SimTraffic Discord
+    url: https://discord.gg/ZBqpqej77
+    about: Please ask and answer questions here.
+  - name: SimTraffic Security Bugs
+    url: emailto:info@simtraffic.net
+    about: Please report security vulnerabilities here.
