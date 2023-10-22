@@ -1,3 +1,4 @@
+![ST_Block_Icon](https://github.com/kjporter/SimTraffic-public/assets/21279582/5ce41c70-13e6-48a9-9865-569a92a2475d) 
 # SimTraffic - Public Issues Repository
 ![][version-image]
 [![npm license][license-image]][license-url]
