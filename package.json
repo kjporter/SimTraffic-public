@@ -1,6 +1,6 @@
 {
   "name": "@kjporter/SimTraffic",
-  "version": "1.4.10",
+  "version": "1.4.9",
   "description": "An air traffic management system for VATUSA",
   "main": "index.php",
   "private": true,
