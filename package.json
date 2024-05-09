@@ -15,8 +15,7 @@
     "VATSIM",
     "VATUSA",
     "VATCAN",
-    "SimTraffic",
-    "vIDS"
+    "SimTraffic"
   ],
   "author": "kjporter <kporter@kplink.net> (https://github.com/kjporter)",
   "license": "GPL-3.0",
